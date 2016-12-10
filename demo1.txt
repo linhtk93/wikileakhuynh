@@ -1,6 +1,6 @@
 test\
 
-add line 1
+line 4
 add line 2
 
 
